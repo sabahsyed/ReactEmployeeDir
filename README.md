@@ -2,7 +2,7 @@
 
 
 ### Link to deployed app 
-![ReactDeployedApp](https://sabahsyed.github.io/ReactEmployeeDir/)
+https://sabahsyed.github.io/ReactEmployeeDir/
 
 
 ## Table of Contents
