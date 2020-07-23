@@ -1,0 +1,11 @@
+.form-group{
+    text-align: center;
+    padding:10px;
+    margin: 20px;
+}
+
+.inputClass{
+   padding :5px;
+   margin : 5px;
+   color: blue;
+}

@@ -1,0 +1,14 @@
+.h1{
+    font-family: fantasy;
+    font-size: 40px;
+    text-align: center;
+    color : royalblue;
+    margin :auto
+  
+    
+}
+
+nav,navbar{
+    text-align: center;
+    display: inline-block;
+}
