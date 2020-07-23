@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # React : Employee Directory
 
 
@@ -39,6 +38,3 @@ Questions
 
 If you have any questions drop by at ![SabahSyedGitHubProfile](https://github.com/sabahsyed)
 ![SabahSyedLinkedIn](https://www.linkedin.com/in/sabah-syed-89a07344/)
-=======
-# ReactEmployeeDir
->>>>>>> 0ff21261220ab7038ab8fe631fae356734aa1cb3
