@@ -1,4 +1,3 @@
-
 import React from "react";
 import "./Table.css"
 
@@ -18,7 +17,6 @@ function Table(props) {
       </thead>
       <tbody>
         {props.results.map(employee => {
-          //const newDob = Moment(employee.dob.date).format("LL");
           return (
             <tr key={employee.phone}>
               <td><img alt="employee" src={employee.picture.thumbnail}/></td>
