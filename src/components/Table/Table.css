@@ -14,3 +14,7 @@
   th{
     color:blue;
   }
+
+  .table, .table-striped{
+    margin :5px;
+  }
